@@ -24,6 +24,7 @@ WhatsNext Vision Motors is a pioneering force in the automotive industry, dedica
 - **Stock Validation** — Prevents customers from placing orders for vehicles that are out of stock, avoiding confusion and improving order accuracy.
 - **Automated Order Status Management** — A scheduled batch process updates bulk order records to `Confirmed` or `Pending` based on real-time stock availability.
 
+Demo link - https://drive.google.com/file/d/1m7lv4wjME_JSO82bcF0s3uc-jDGwTCvz/view?usp=sharing
 ---
 
 ## Features
